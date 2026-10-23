@@ -1,0 +1,10 @@
+# 网关 key，永远不要提交
+.token
+*.token
+
+# 本地回收站 / 产物
+__pycache__/
+*.pyc
+.DS_Store
+*.log
+node_modules/
